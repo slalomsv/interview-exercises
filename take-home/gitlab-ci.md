@@ -42,5 +42,5 @@ You may submit it in via email and package it in one of two ways:
 
 ## Final Notes
 - This exercise is meant to be both a fun learning exercise and a demonstration of your technical problem solving and system architecture abilities.  Please feel free to share your feedback with the interviewer and/or your recruiter once you are finished as we are always looking to improve the experience we provide to candidates.
-- Please Be respectful of the time and effort put into organizing this exercise by not sharing any details about the problem on Glassdoor or any other forum -- we would prefer all candidates approach this exercise from a level playing field.
+- Please be respectful of the time and effort put into organizing this exercise by not sharing any details about the problem on Glassdoor or any other forum -- we would prefer all candidates approach this exercise from a level playing field.
 - Thank you for your time!
